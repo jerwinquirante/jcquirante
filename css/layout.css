@@ -39,7 +39,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
+  color: #000000;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -55,7 +55,7 @@ li a {
 
 a {
   font-family: Hind, sans-serif;
-  color: #81848f;
+  color: #0000FF; /* Blue color for hyperlinks */
   outline: 0;
 }
 

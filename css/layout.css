@@ -39,7 +39,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #000000;
+  color: #000;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -50,18 +50,18 @@ li a {
   font-size: 16px;
   font-weight: 500;
   font-family: Hind, sans-serif;
-  color: #515769;
+  color: #000;
 }
 
 a {
   font-family: Hind, sans-serif;
-  color: #0000FF; /* Blue color for hyperlinks */
+  color: #000;
   outline: 0;
 }
 
 a:focus, a:hover, a:active {
   outline: 0;
-  color: #999caa;
+  color: #000;
   text-decoration: none;
 }
 
